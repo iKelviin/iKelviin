@@ -17,9 +17,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iKelviin&show_icons=true&theme=nord)
 __
 __
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iKelviin&langs_count=8 )](https://github.com/anuraghazra/github-readme-stats)
-__
-__
- <img align="left" height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />    
- <img align="left" height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
- <img align="left" height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
