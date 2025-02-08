@@ -26,6 +26,4 @@ Minha atuação abrange o desenvolvimento e manutenção de sistemas Desktop (Wi
 
 Atualmente, faço parte do desenvolvimento de um projeto que utiliza .NET 8 Web API, inicialmente integrado ao front-end em Angular, mas que está em processo de migração para Blazor WebAssembly, trazendo uma experiência mais fluida e unificada no desenvolvimento full stack.
 
-Estou constantemente investindo no meu crescimento profissional e, no momento, me preparo para obter a certificação AZ-900 da Microsoft Azure. Após essa etapa, planejo conquistar a AWS Certified Cloud Practitioner, ampliando meus conhecimentos em computação em nuvem e fortalecendo minha expertise em soluções modernas e eficientes.     
-
           
